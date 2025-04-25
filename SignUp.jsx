@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import './signup.css';
 import Getinput from './Getinput';
-import UserProfile from '../user/UserProfile';
-import ScienceDev from '../assets/ScienceDev.png'
+import UserProfile from './UserProfile';
+import ScienceDev from './ScienceDev.png'
 
 const SignUp = () => {
   const [form, setForm] = useState({

@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import './login.css';
-import { Link } from 'react-router';
-import UserProfile from '../user/UserProfile';
-import ScienceDev from '../assets/ScienceDev.png'
+import { Link } from 'react-router-dom';
+import UserProfile from './UserProfile';
+import ScienceDev from './ScienceDev.png'
 
 const Login = () => {
   const [form, setForm] = useState({

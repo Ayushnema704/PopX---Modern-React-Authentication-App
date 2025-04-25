@@ -1,9 +1,9 @@
 import React from 'react';
-import Login from './loginpage/Login';
-import Home from './home/Home';
-import SignUp from './signup/SignUp';
-import { BrowserRouter, Route, Routes } from 'react-router';
-import UserProfile from './user/UserProfile';
+import Login from './Login';
+import Home from './Home';
+import SignUp from './SignUp';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import UserProfile from './UserProfile';
 
 function App() {
   return (

@@ -1,6 +1,6 @@
 # PopX - Modern React Authentication App
 
-A modern, responsive React application featuring user authentication, profile management, and a clean mobile-first design.
+A modern, responsive React application featuring user authentication, profile management and a clean mobile-first design.
 
 ## 🌟 Features
 
